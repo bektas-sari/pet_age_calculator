@@ -1,4 +1,4 @@
-# 🐾 Pet Age Calculator
+# 🐾 Pet Age Calculator (Flutter App)
 
 A friendly Flutter app that calculates your pet's age in human years based on birth year and pet type. 
 Choose between dog or cat, pick a birth date, and see how old they would be if they were human! Designed with a soft pastel theme and cute icons for a delightful user experience.
