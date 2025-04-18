@@ -15,12 +15,6 @@ Choose between dog or cat, pick a birth date, and see how old they would be if t
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots in `assets/screenshots/` folder if available_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
