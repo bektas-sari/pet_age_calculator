@@ -30,7 +30,7 @@ Choose between dog or cat, pick a birth date, and see how old they would be if t
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/pet_age_calculator.git
+git clone https://github.com/bektas-sari/pet_age_calculator.git
 cd pet_age_calculator
 ```
 
