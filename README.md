@@ -50,7 +50,8 @@ flutter run
 
 ## 🔧 Customization
 
-You can modify the multiplier logic in `_calculateAge()` to match other pet types or conversion standards. Add new pet types to the `petTypes` list as needed.
+You can modify the multiplier logic in `_calculateAge()` to match other pet types or conversion standards. 
+Add new pet types to the `petTypes` list as needed.
 
 ---
 
